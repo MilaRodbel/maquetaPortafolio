@@ -6,25 +6,25 @@
 /* temporaly colors for wireframes and layout */
 
 body{
-    background-color: blue;
+    background-color: rgb(226, 219, 152);
     height: 100%;
 }
 .header{
-    background-color: blueviolet;
+    background-color: rgb(178, 120, 231);
     height: 180px;
 }
 .logo{
-    background-color: yellow;
+    background-color: rgb(196, 111, 239);
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .section_Photos{
-    background-color: orange;
+    background-color: rgb(29, 227, 245);
     height: 90vh;
 }
 .footer{
-    background-color: red;
+    background-color: rgb(212, 123, 242);
     height: 10vh;
 }
 .logotipo{
@@ -34,7 +34,7 @@ body{
     height: 90%;
 }
 .navbar_Sections{
-    background-color: green;
+    background-color: rgb(182, 233, 182);
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -47,7 +47,7 @@ body{
     height: 90%;
 }
 .imagenes{
-    background-color: rgb(255, 135, 135);
+    background-color: rgb(243, 143, 238);
     width: 250px;
     height: 250px;
     margin: 20px;
