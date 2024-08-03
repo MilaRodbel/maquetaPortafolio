@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* temporaly colors for wireframes and layout */
+
+body{
+    background-color: blue;
+    height: 100%;
+}
+.header{
+    background-color: blueviolet;
+    height: 180px;
+}
+.logo{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section_Photos{
+    background-color: orange;
+    height: 90vh;
+}
+.footer{
+    background-color: red;
+    height: 10vh;
+}
+.logotipo{
+    background-color: aliceblue;
+    padding: 15px; 
+    width: 100%;
+    height: 90%;
+}
+.navbar_Sections{
+    background-color: green;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    height: auto;
+}
+.btns_navbar{
+    width: 95%;
+    margin: 10px 5px;
+    background-color: aqua;
+    height: 90%;
+}
+.imagenes{
+    background-color: blueviolet;
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+}
